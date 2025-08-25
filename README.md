@@ -1,11 +1,13 @@
 # 💫 About Me:
-🚀 Senior Full-Stack Developer & Tech Lead specializing in blockchain and Web3 technologies<br/>
+🚀 Software Architect and Full Stack Developer specializing in AI, blockchain, and Web3 technologies<br/>
 🏢 Associated with @bitcashorg and @kindfi-org organizations<br/>
+🤖 Expert in LLM agent systems development and architecture design<br/>
+🔬 Currently developing AI agent servers, APIs, and apps with Web3 blockchain integration<br/>
 🎯 Expert in advanced 3D web development with WebGL, ThreeJS, and NextJS<br/>
 🌍 Based in San José, Costa Rica<br/>
-💬 Ask me about JavaScript, TypeScript, NextJS, ThreeJS, blockchain development, and WebGL<br/>
+💬 Ask me about AI agents, LLM systems, JavaScript, TypeScript, NextJS, ThreeJS, blockchain development, and WebGL<br/>
 📫 How to reach me: andler@bitcash.org<br/>
-⚡ Fun fact: I create immersive 3D web experiences that push the boundaries of what's possible in the browser<br/>
+⚡ Fun fact: I create immersive 3D web experiences and AI-powered applications that push the boundaries of what's possible<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andlerrl)
@@ -25,9 +27,16 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
+# 🤖 AI/ML Technologies:
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E.svg?style=for-the-badge&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andlerrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andlerrl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andlerrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
