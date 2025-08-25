@@ -1,9 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working on blockchain and Web3 projects<br/>
-🌱 I'm currently learning advanced TypeScript and WebGL<br/>
-💬 Ask me about JavaScript, TypeScript, NextJS, ThreeJS, and blockchain development<br/>
+🚀 Senior Full-Stack Developer & Tech Lead specializing in blockchain and Web3 technologies<br/>
+🏢 Associated with @bitcashorg and @kindfi-org organizations<br/>
+🎯 Expert in advanced 3D web development with WebGL, ThreeJS, and NextJS<br/>
+🌍 Based in San José, Costa Rica<br/>
+💬 Ask me about JavaScript, TypeScript, NextJS, ThreeJS, blockchain development, and WebGL<br/>
 📫 How to reach me: andler@bitcash.org<br/>
-⚡ Fun fact: I love creating immersive 3D web experiences<br/>
+⚡ Fun fact: I create immersive 3D web experiences that push the boundaries of what's possible in the browser<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andlerrl)
