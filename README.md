@@ -37,11 +37,27 @@
 ![](https://github-readme-stats.vercel.app/api?username=andlerrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andlerrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 📊 Language Usage (Donut Chart)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andlerrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+
+### 📊 Language Usage (Pie Chart)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andlerrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
+
+## 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andlerrl&repo=andlerrl&theme=dark)](https://github.com/AndlerRL/andlerrl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitcashorg&repo=masterbots&theme=dark)](https://github.com/bitcashorg/masterbots)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andlerrl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 GitHub Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=andlerrl&theme=github-dark)
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=andlerrl&color=blue&style=flat)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=andlerrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
